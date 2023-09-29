@@ -3,6 +3,7 @@
     <nav class="navbar navbar-light bg-light">
       <div class="container">
         <nuxt-link class="navbar-brand" to="/">Navbar</nuxt-link>
+        <nuxt-link class="navbar-brand" to="/form/tambah">Tambah</nuxt-link>
       </div>
     </nav>
   </header>
